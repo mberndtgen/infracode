@@ -141,10 +141,6 @@ ami_usermap.<ami_os> = "value"
 
 This is a work in progress and is subject to change rapidly. Be sure to keep up to date with the repo should you fork, and feel free to contact me regarding development and suggested direction. 
 
-## `CHANGELOG`
-
-Please refer to the [`CHANGELOG.md`](CHANGELOG.md)
-
 ## License
 
 This is licensed under [the Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
